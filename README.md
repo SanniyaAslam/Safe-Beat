@@ -4,6 +4,9 @@
 A machine learning web application that predicts a patient's 10-year risk 
 of developing coronary heart disease based on their medical information.
 
+##Live Demo
+https://safe-beat-6fkq5fptkitzcepossqovg.streamlit.app/
+
 ## Project Overview
 
 SafeBeat takes 14 medical inputs from a patient and uses a trained 
